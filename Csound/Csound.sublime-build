@@ -1,0 +1,4 @@
+{
+	"cmd": ["csound", "-d", "-odac", "$file"],
+	"selector": "source.csound"
+}
