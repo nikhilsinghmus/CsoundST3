@@ -22,7 +22,9 @@ I plan to add more to this collection. Contributions, style enhancements, fixes,
 
 ## Installation
 
-Copy the Csound folder into your Sublime Text 3 Packages folder.
+New (in v1.0.0): The recommended installation method is using Package Control. The package is named CsoundSyntax.
+
+![CsoundSyntax Package Control Installation](Images/CsoundPackage.png)
 
 ## Thanks
 
